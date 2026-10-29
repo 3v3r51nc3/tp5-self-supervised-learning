@@ -1,0 +1,9 @@
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.fls
+report/*.fdb_latexmk
+.DS_Store
+__pycache__/
+docs/M2 VMI*

@@ -1,0 +1,9 @@
+task,dataset,epochs,test_top1,test_top5
+context_encoder,cifar10,pretrained (unknown),45.77,90.29
+rotation,cifar10,pretrained (unknown),79.91,99.12
+simclr,cifar10,pretrained (unknown),92.84,99.86
+patch_position,cifar10,100,59.92,94.97
+context_encoder,cifar100,3,13.09,33.89
+rotation,cifar100,3,28.69,57.27
+simclr,cifar100,3,12.29,34.43
+patch_position,cifar100,3,8.56,25.35
